@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fakeflix/static/css/main.1ae92d3e.css",
+    "main.js": "/fakeflix/static/js/main.0d6eb40f.js",
+    "static/js/787.1fc5504b.chunk.js": "/fakeflix/static/js/787.1fc5504b.chunk.js",
+    "index.html": "/fakeflix/index.html",
+    "main.1ae92d3e.css.map": "/fakeflix/static/css/main.1ae92d3e.css.map",
+    "main.0d6eb40f.js.map": "/fakeflix/static/js/main.0d6eb40f.js.map",
+    "787.1fc5504b.chunk.js.map": "/fakeflix/static/js/787.1fc5504b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae92d3e.css",
+    "static/js/main.0d6eb40f.js"
+  ]
+}
